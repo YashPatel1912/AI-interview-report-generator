@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  weight: 100%;
+}
+#root {
+  height: 100%;
+  weight: 100%;
+  background-color: #1e1d1d;
+  color: rgba(255, 255, 255, 0.527);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
